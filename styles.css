@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    overflow: hidden;
+   
+    margin: auto;
+    position: absolute;
+   
+}
+.imgdiv{
+    margin: auto;
+    
+    width: 700px;
+    position: fixed;
+}
+
+#image-container {
+    /* position: relative; */
+    top: 50%;
+    transform: translateY(-50%);
+    background-image: url(img/hh-removebg-preview-modified.png);
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-position-x: 333px;
+    
+
+
+  
+}
+
+#moving-image {
+    width: 297px; /* Adjust the width as needed */
+   
+}
+.buttondiv{
+   
+    margin-top: 500px;
+    
+}
